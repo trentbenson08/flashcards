@@ -2,3 +2,26 @@ h1{
     color: black;
     font-family: monospace;
 }
+
+#container,
+#display{
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#display{
+    display: inline-block;
+    
+}
+
+#answer{
+    border: 2px solid blue;
+    width: 600px;
+    height: 300px;
+}
+
+#prompt{
+    border: 2px solid red;
+    width: 600px;
+    height: 100px;
+}

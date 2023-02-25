@@ -1,0 +1,12 @@
+{
+    "default":[
+        {
+            "prompt": "Hi! I am a prompt.",
+            "answer": "Bye! I am an answer."
+        },
+        {
+            "prompt": "Prompt 1",
+            "answer": "Answer 1"
+        }
+    ]
+}

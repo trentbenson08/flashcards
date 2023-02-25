@@ -1,4 +1,4 @@
-h1{
+*{
     color: black;
     font-family: monospace;
 }
@@ -25,3 +25,19 @@ h1{
     width: 600px;
     height: 100px;
 }
+
+p,
+button{
+    margin: 10px;
+}
+
+#window{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+#window>p,
+#window>button{
+    margin:12px 10px;
+}
+

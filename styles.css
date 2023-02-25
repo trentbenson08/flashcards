@@ -30,6 +30,12 @@ p,
 button{
     margin: 10px;
 }
+#set-info{
+    display: flex;
+}
+.static{
+    margin-left: -3px;
+}
 
 #window{
     display: flex;

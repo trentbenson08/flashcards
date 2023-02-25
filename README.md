@@ -14,3 +14,17 @@ Learning to be a great developer can take a long time and encompasses so many to
 
 ### Features:
 - Create and Review flashcards
+
+
+
+#### Notes:
+As of 2/25 the following funcitonality works:
+- Add flashcards manually in json.data
+- Hide and reveal answers to flashcard prompts
+- cycle forward and back through an array of flashcard objects
+
+Features I would like to add / Changes I would like to make in the future:
+- Better styling
+- Ability to create new flashcards through webpage
+- Ability to save and organize new flashcards in a directory style tree
+- Refactor code when I get a better grasp on how to make use of promises and callback functions in an interactive enviornment
